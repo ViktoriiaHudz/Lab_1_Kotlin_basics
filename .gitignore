@@ -1,0 +1,12 @@
+# Project exclude paths
+/.gradle/
+/Basic Syntax/Absence of Semicolons/build/
+/Basic Syntax/Combined Task - Basic Syntax/build/
+/Basic Syntax/Declaring a Mutable Variable (var)/build/
+/Basic Syntax/Declaring an Immutable Variable (val)/build/
+/Basic Syntax/Everything is an Object/build/
+/Basic Syntax/String Templates - Expressions/build/
+/Basic Syntax/String Templates - Object Properties/build/
+/Basic Syntax/String Templates - Variables/build/
+/Basic Syntax/Type Inference/build/
+/Basic Syntax/Type Safety/build/
